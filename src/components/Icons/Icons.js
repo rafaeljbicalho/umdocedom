@@ -2,6 +2,7 @@ import './Icons.css';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
+import React, { Component }  from 'react';
 
 function Icons() {
     return(
